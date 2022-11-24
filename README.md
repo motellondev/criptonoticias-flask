@@ -1,7 +1,7 @@
 # App Flask Criptonoticias
 ###### App simple que muestra los últimos posts de algunos canales RSS de criptomonedas
-### Deployed:
-###### https://motecryptonews.herokuapp.com/
+### Desplegado:
+###### [https://motecryptonews.herokuapp.com/](https://motecriptonoticias.herokuapp.com/)
 ![Screenshot](screenshots/criptonoticias.png)
 ### Librerias usadas:
 ###### Flask
